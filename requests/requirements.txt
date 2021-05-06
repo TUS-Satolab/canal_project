@@ -7,4 +7,4 @@ redis==3.3.8
 requests==2.22.0
 docker==4.0.2
 rq-dashboard==0.5.3
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
